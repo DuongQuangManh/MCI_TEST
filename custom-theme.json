@@ -1,0 +1,13 @@
+{
+  "color-basic": "#f1692f",
+  "color-backgroud":"#FFFFFF",
+  "color-text-basic":"#000000",
+  "color-text-hint":"#666666",
+  "color-text-disable":"#B2B2B2",
+  "color-backgroud-tranperent": "rgba(255, 255, 255, 0)",
+
+  "text-basic-color": "$color-text-basic",
+  "text-hint-color":"$color-text-hint",
+  "text-disabled-color":"$color-text-disable",
+  "text-select-color":"$color-basic"
+}
